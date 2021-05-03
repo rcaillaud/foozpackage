@@ -1,0 +1,2 @@
+proc foozpackage*() =
+  echo "foozpackage"
